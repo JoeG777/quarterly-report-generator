@@ -1,0 +1,6 @@
+{
+    "year": "2023",
+    "quarter" : "Q1",
+    "path_to_data": "../data/sample_data.csv",
+    "notes": "This is a test note."
+}
