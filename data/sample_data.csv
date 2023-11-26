@@ -1,0 +1,15 @@
+Buchungstag;Wertstellung;Betrag;Verwendungszweck;prep_Month;prep_Year;prep_Type;prep_Recurring;prep_Category
+15.01.2023;15.01.2023;300.00;Salary Payment;Jan;2023;Einnahme;True;Income
+15.01.2023;15.01.2023;400.00;Freelance Project;Jan;2023;Einnahme;False;Income
+20.01.2023;20.01.2023;-30.00;Grocery Shopping;Jan;2023;Ausgabe;True;Food
+10.01.2023;10.01.2023;-15.00;Restaurant;Jan;2023;Ausgabe;False;Entertainment
+10.02.2023;10.02.2023;-15.00;Restaurant;Feb;2023;Ausgabe;True;Entertainment
+15.02.2023;15.02.2023;400.00;Freelance Project;Feb;2023;Einnahme;False;Income
+15.02.2023;15.02.2023;300.00;Salary Payment;Feb;2023;Einnahme;True;Income
+05.02.2023;05.02.2023;-50.00;Utilities;Feb;2023;Ausgabe;False;Utilities
+20.03.2023;20.03.2023;-20.00;Clothing;Mar;2023;Ausgabe;True;Shopping
+02.03.2023;02.03.2023;200.00;Freelance Work;Mar;2023;Einnahme;False;Income
+02.03.2023;02.03.2023;200.00;Freelance Work;Mar;2023;Einnahme;False;Income
+05.03.2023;05.03.2023;-10.00;Coffee Shop;Mar;2023;Ausgabe;False;Food
+10.03.2023;10.03.2023;250.00;Consulting Fee;Mar;2023;Einnahme;True;Income
+15.03.2023;15.03.2023;-30.00;Books;Mar;2023;Ausgabe;False;Entertainment
